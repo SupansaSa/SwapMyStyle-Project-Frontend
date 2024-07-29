@@ -1,0 +1,60 @@
+name: myapp
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  postgresql2: ^1.5.1
+  postgres: ^3.2.0
+  http: ^1.2.0
+  mask_text_input_formatter: ^2.9.0
+  image_picker: ^0.8.5+3
+  shared_preferences: ^2.0.15
+  multi_image_picker: ^4.8.0
+  path_provider: ^2.0.11
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/image/1.png
+    - assets/image/2.png
+    - assets/image/3.png
+    - assets/image/dress.png
+    - assets/image/jeans.png
+    - assets/image/earrings.png
+    - assets/image/handbag.png
+    - assets/image/round-neck-shirt.png
+    - assets/image/running-shoes.png
+    - assets/image/user.png
+    - assets/image/trends.png
+    - assets/image/Logo1.png
+    - assets/image/Logo2.png
+    - assets/image/Logo3.png
+    - assets/image/Logo4.png
+    - assets/image/Mail-sent.png
+    - assets/image/send.png
+    - assets/image/user1.png
+    
+   
+
+
+  
