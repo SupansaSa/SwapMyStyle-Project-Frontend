@@ -23,6 +23,9 @@ dependencies:
   shared_preferences: ^2.0.15
   multi_image_picker: ^4.8.0
   path_provider: ^2.0.11
+  get: ^4.6.5
+  smooth_page_indicator: ^1.2.0+3
+  flutter_animate: ^3.1.0
   
 
 dev_dependencies:
@@ -53,6 +56,15 @@ flutter:
     - assets/image/Mail-sent.png
     - assets/image/send.png
     - assets/image/user1.png
+    - assets/image/sammy-line-delivery.gif
+    - assets/image/sammy-line-searching.gif
+    - assets/image/sammy-line-shopping.gif
+    - assets/image/advert1.png
+    - assets/image/advert2.png
+    - assets/image/advert3.png
+    - assets/image/advert4.png
+
+   
     
    
 
