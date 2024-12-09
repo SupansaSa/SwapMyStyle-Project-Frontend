@@ -26,6 +26,10 @@ dependencies:
   get: ^4.6.5
   smooth_page_indicator: ^1.2.0+3
   flutter_animate: ^3.1.0
+  web_socket_channel: ^2.1.0
+  socket_io_client: ^2.0.0
+  intl: ^0.18.0 
+  google_fonts: ^6.2.0
   
 
 dev_dependencies:
@@ -63,6 +67,9 @@ flutter:
     - assets/image/advert2.png
     - assets/image/advert3.png
     - assets/image/advert4.png
+    - assets/image/speech-bubble.png
+    - assets/image/noimage.png
+    - assets/image/speech-bubble.png
 
    
     
